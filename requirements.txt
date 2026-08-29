@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+jsonpointer==3.0.0
+streamlit
