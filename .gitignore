@@ -9,7 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# Local environment and tool caches
+# Environment variables / secrets
 .env
-.uv-cache/
-.ipynb_checkpoints/
